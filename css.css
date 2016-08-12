@@ -20,7 +20,7 @@ body {
 }
 #navbar a {
 	text-decoration: none;
-	color: #ffffff;
+	color: #5C5C5C;
 	padding: 8px;
 }
 #navbar li {
@@ -67,5 +67,5 @@ body {
 }
 #body a:hover {
 	color: #ccffcc;
-	text-decoration: underline;
+#top	text-decoration: underline;
 }
