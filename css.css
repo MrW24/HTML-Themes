@@ -6,8 +6,8 @@ body {
 	font-family: trench100;
 	text-align: center;
 	margin: 0px;
-	background: #ffffff;
-	color: #000000;
+	background: #5C5C5C;
+	color: #FF4040;
 }
 #header {
 	text-align: center;
@@ -37,10 +37,10 @@ body {
 }
 #body {
 	background: linear-gradient(to right, #5C5C5C, #5C5C5C, #5C5C5C);
-	color: #000000;
+	color: #FF4040;
 }
 #body a {
-	color: #000000;
+	color: #FF4040;
 	text-decoration: none;
 }
 #body a:hover {
