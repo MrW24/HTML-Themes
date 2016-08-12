@@ -1,5 +1,5 @@
 @font-face {
-	font-family: TimeBurnerNormal;
+	font-family: TimeBurner;
 	src: url(http://w24net.us.to/timeburnernormal.woff);
 }
 body {
@@ -56,10 +56,6 @@ body {
 	text-align: left;
 	margin-left: 20%;
 	margin-right: 20%
-}
-@font-face {
-	font-family: timeburner;
-	src: url(timeburnernormal.woff);
 }
 #top {
 	text-align: center;
