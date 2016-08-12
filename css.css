@@ -61,11 +61,8 @@ body {
 	font-family: timeburner;
 	src: url(timeburnernormal.woff);
 }
-#top a {
-	color: #FF4040;
-	text-decoration: none;
-}
-#body a:hover {
-	color: #ccffcc;
-#top	text-decoration: underline;
+#wbot {
+	text-align: center;
+	background: linear-gradient(#FF4040, #FF4040, #FF4040);
+	background-repeat
 }
